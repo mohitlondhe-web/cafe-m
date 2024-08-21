@@ -1,0 +1,33 @@
+.index{
+    color: brown;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 10px;
+    text-align: center;
+    font-size :100px;
+    margin: 20px;
+    
+}
+.index1{
+    color: chocolate;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 10px;
+    text-align: center;
+    font-size :50px;
+    margin: 20px;
+    
+}
+.body{
+    background-color:burlywood;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+.no-underline{
+    text-decoration: none;
+}
