@@ -1,6 +1,15 @@
-.order{
-    
-}
 .body{
     background-color:burlywood;
+}
+.text{
+    display: inline-block;
+    justify-content: center;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: solid darkred 5px;
+    height: 300px;
+    width: 200px;
+   
 }
